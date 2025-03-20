@@ -860,19 +860,19 @@
           <mxGeometry x="434" y="240" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-31" value="汉服文化展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="480" y="115" width="20" height="100" as="geometry" />
+          <mxGeometry x="520" y="115" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-33" value="按朝代展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="470" y="230" width="20" height="70" as="geometry" />
+          <mxGeometry x="465" y="310" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-34" value="汉服礼服展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="230" width="20" height="100" as="geometry" />
+          <mxGeometry x="505" y="310" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-35" value="汉服工艺展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="550" y="230" width="20" height="100" as="geometry" />
+          <mxGeometry x="545" y="310" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-36" value="汉服配饰" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="580" y="230" width="20" height="100" as="geometry" />
+          <mxGeometry x="575" y="310" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
