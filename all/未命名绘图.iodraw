@@ -630,7 +630,7 @@
           <mxGeometry x="20" y="107" width="323" height="194" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-2" value="礼仪体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="362.5" y="107" width="474" height="194" as="geometry" />
+          <mxGeometry x="370" y="107" width="474" height="194" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-3" value="纹样系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="857" y="107" width="827" height="310" as="geometry" />
@@ -654,7 +654,7 @@
           <mxGeometry x="1212" y="132" width="101" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-10" value="礼仪之道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="549" y="132" width="101" height="41" as="geometry" />
+          <mxGeometry x="556.5" y="132" width="101" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-11" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="121" y="132" width="101" height="41" as="geometry" />
@@ -705,13 +705,13 @@
           <mxGeometry x="1568" y="351" width="81" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-27" value="礼仪文化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="398" y="229" width="101" height="41" as="geometry" />
+          <mxGeometry x="405.5" y="229" width="101" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-28" value="着装规范" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="549" y="229" width="101" height="41" as="geometry" />
+          <mxGeometry x="556.5" y="229" width="101" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-29" value="文化典故" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="229" width="101" height="41" as="geometry" />
+          <mxGeometry x="707.5" y="229" width="101" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-30" value="个人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="229" width="101" height="41" as="geometry" />
