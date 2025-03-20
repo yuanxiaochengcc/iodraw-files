@@ -20,7 +20,7 @@
           <mxGeometry x="1284" y="-60" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-6" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="336" width="125" height="49" as="geometry" />
+          <mxGeometry x="1530" y="336" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-7" value="导航菜单" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="377" width="124" height="49" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="1508" y="38" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-26" value="个人信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1682" y="38" width="125" height="49" as="geometry" />
+          <mxGeometry x="1530" y="511" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-27" value="修改个人信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1857" y="38" width="157" height="49" as="geometry" />
