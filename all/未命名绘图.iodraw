@@ -934,6 +934,12 @@
         <mxCell id="aGGSzIS987s6DGNBnlzl-46" value="色彩展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="300" width="20" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="aGGSzIS987s6DGNBnlzl-56" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=block;" edge="1" parent="1" source="aGGSzIS987s6DGNBnlzl-49" target="aGGSzIS987s6DGNBnlzl-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGGSzIS987s6DGNBnlzl-57" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=block;" edge="1" parent="1" source="aGGSzIS987s6DGNBnlzl-49" target="aGGSzIS987s6DGNBnlzl-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-49" value="汉服艺术" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="700" y="125" width="20" height="105" as="geometry" />
         </mxCell>
