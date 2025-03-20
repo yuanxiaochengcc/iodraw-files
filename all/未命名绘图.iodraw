@@ -49,23 +49,23 @@
         <mxCell id="dsYvHbmPSxo-NndMufUd-15" value="明代服饰" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="871" y="476" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dsYvHbmPSxo-NndMufUd-17" value="云纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="426" width="25" height="25" as="geometry" />
+        <mxCell id="dsYvHbmPSxo-NndMufUd-17" value="云纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="426" width="93" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dsYvHbmPSxo-NndMufUd-18" value="龙纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="426" width="25" height="25" as="geometry" />
+        <mxCell id="dsYvHbmPSxo-NndMufUd-18" value="龙纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="426" width="93" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dsYvHbmPSxo-NndMufUd-19" value="凤纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="426" width="25" height="25" as="geometry" />
+        <mxCell id="dsYvHbmPSxo-NndMufUd-19" value="凤纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="426" width="93" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dsYvHbmPSxo-NndMufUd-20" value="荷花纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1482" y="426" width="25" height="25" as="geometry" />
+        <mxCell id="dsYvHbmPSxo-NndMufUd-20" value="荷花纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="1482" y="426" width="109" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dsYvHbmPSxo-NndMufUd-21" value="牡丹纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1632" y="426" width="25" height="25" as="geometry" />
+        <mxCell id="dsYvHbmPSxo-NndMufUd-21" value="牡丹纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="1632" y="426" width="109" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dsYvHbmPSxo-NndMufUd-22" value="回纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1790" y="426" width="25" height="25" as="geometry" />
+        <mxCell id="dsYvHbmPSxo-NndMufUd-22" value="回纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="1790" y="426" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-23" value="礼仪文化" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1160" y="38" width="124" height="49" as="geometry" />
