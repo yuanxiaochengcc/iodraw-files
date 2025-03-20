@@ -77,7 +77,7 @@
           <mxGeometry x="1340" y="426" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-20" value="荷花纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1482" y="426" width="109" height="49" as="geometry" />
+          <mxGeometry x="1482" y="426" width="48" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-21" value="牡丹纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1632" y="426" width="109" height="49" as="geometry" />
