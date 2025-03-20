@@ -59,10 +59,10 @@
           <mxGeometry x="871" y="476" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-23" value="礼仪文化" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="440" width="124" height="49" as="geometry" />
+          <mxGeometry x="1140" y="440" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-24" value="着装规范" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1278" y="440" width="124" height="49" as="geometry" />
+          <mxGeometry x="1278" y="440" width="72" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-25" value="文化典故" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1508" y="38" width="125" height="49" as="geometry" />
