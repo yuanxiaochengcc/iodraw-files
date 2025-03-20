@@ -626,16 +626,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A1Bm2LmqhEdNzLdYD56h-3" value="纹样系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="857" y="107" width="827" height="310" as="geometry" />
-        </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-4" value="文化体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2045" y="107" width="675" height="310" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-5" value="首页模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1703" y="107" width="322" height="194" as="geometry" />
         </mxCell>
-        <mxCell id="A1Bm2LmqhEdNzLdYD56h-6" value="图2-2 产品总体设计图&#xa;韶华胜极系统架构" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
+        <mxCell id="A1Bm2LmqhEdNzLdYD56h-6" value="&#xa;韶华胜极系统架构" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
           <mxGeometry x="1198" y="20" width="128" height="37" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-7" value="首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -645,10 +642,10 @@
           <mxGeometry x="2332" y="132" width="101" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-9" value="纹样展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1212" y="132" width="101" height="41" as="geometry" />
+          <mxGeometry x="1212" y="132" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-10" value="礼仪之道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="556.5" y="132" width="50" height="100" as="geometry" />
+          <mxGeometry x="570" y="80" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-11" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="73" width="50" height="100" as="geometry" />
@@ -678,25 +675,25 @@
           <mxGeometry x="2605" y="351" width="81" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-20" value="传统纹样" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1212" y="229" width="101" height="41" as="geometry" />
+          <mxGeometry x="1212" y="229" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-21" value="云纹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="892" y="351" width="81" height="41" as="geometry" />
+          <mxGeometry x="892" y="351" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-22" value="龙纹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1022" y="351" width="81" height="41" as="geometry" />
+          <mxGeometry x="1022" y="351" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-23" value="凤纹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1154" y="351" width="81" height="41" as="geometry" />
+          <mxGeometry x="1154" y="351" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-24" value="荷花纹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="351" width="91" height="41" as="geometry" />
+          <mxGeometry x="1285" y="351" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-25" value="牡丹纹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1426" y="351" width="91" height="41" as="geometry" />
+          <mxGeometry x="1426" y="351" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-26" value="回纹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1568" y="351" width="81" height="41" as="geometry" />
+          <mxGeometry x="1568" y="351" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-27" value="礼仪文化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="405.5" y="229" width="50" height="100" as="geometry" />
