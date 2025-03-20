@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-4" value="纹样展示" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="279" width="80" height="101" as="geometry" />
+          <mxGeometry x="1390" y="279" width="60" height="101" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-5" value="礼仪之道" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1284" y="-60" width="124" height="49" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="1190" y="426" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-19" value="凤纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="426" width="93" height="49" as="geometry" />
+          <mxGeometry x="1340" y="426" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-20" value="荷花纹" style="whiteSpace=wrap;strokeWidth=2;spacing=3;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1482" y="426" width="109" height="49" as="geometry" />
