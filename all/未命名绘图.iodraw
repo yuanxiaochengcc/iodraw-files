@@ -793,8 +793,11 @@
         <mxCell id="aGGSzIS987s6DGNBnlzl-6" value="账号注册" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="220" y="310" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aGGSzIS987s6DGNBnlzl-9" value="账号注册" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="aGGSzIS987s6DGNBnlzl-9" value="账号登录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="260" y="310" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aGGSzIS987s6DGNBnlzl-10" value="账号登录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="20" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
