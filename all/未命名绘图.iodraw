@@ -1017,7 +1017,7 @@
         <mxCell id="EOjFxYlcmdEr6LbgIxA5-5" value="验证功能" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="430" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="EOjFxYlcmdEr6LbgIxA5-11" value="首页" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="EOjFxYlcmdEr6LbgIxA5-11" value="汉服搭配" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="20" height="70" as="geometry" />
         </mxCell>
       </root>
