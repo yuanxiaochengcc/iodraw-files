@@ -788,10 +788,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=block;" edge="1" parent="1" source="aGGSzIS987s6DGNBnlzl-4" target="aGGSzIS987s6DGNBnlzl-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="270" />
+              <mxPoint x="364" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-4" value="登录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="300" y="160" width="20" height="70" as="geometry" />
+          <mxGeometry x="320" y="160" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-7" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=block;" edge="1" parent="1" source="aGGSzIS987s6DGNBnlzl-5" target="aGGSzIS987s6DGNBnlzl-6">
           <mxGeometry relative="1" as="geometry" />
