@@ -940,6 +940,15 @@
         <mxCell id="aGGSzIS987s6DGNBnlzl-52" value="色彩展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="660" y="295" width="20" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="aGGSzIS987s6DGNBnlzl-53" value="色彩展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="690" y="295" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aGGSzIS987s6DGNBnlzl-54" value="色彩展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="720" y="295" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aGGSzIS987s6DGNBnlzl-55" value="色彩展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="750" y="295" width="20" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
