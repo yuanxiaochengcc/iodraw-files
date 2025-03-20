@@ -714,7 +714,7 @@
           <mxGeometry x="707.5" y="229" width="101" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-30" value="个人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="229" width="101" height="41" as="geometry" />
+          <mxGeometry x="55" y="229" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-31" value="修改信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="206" y="229" width="101" height="41" as="geometry" />
