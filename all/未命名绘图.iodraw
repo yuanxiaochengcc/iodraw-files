@@ -926,7 +926,7 @@
         <mxCell id="aGGSzIS987s6DGNBnlzl-46" value="色彩展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="300" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="aGGSzIS987s6DGNBnlzl-49" value="汉服文化展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="aGGSzIS987s6DGNBnlzl-49" value="汉服艺术" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="650" y="125" width="20" height="105" as="geometry" />
         </mxCell>
       </root>
