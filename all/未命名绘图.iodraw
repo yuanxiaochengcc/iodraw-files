@@ -657,7 +657,7 @@
           <mxGeometry x="556.5" y="132" width="101" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-11" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="121" y="132" width="101" height="41" as="geometry" />
+          <mxGeometry x="121" y="132" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-12" value="导航菜单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1738" y="229" width="101" height="41" as="geometry" />
