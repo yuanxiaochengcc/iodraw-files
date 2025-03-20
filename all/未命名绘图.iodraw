@@ -805,7 +805,7 @@
         <mxCell id="aGGSzIS987s6DGNBnlzl-10" value="邮箱登录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="320" y="310" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aGGSzIS987s6DGNBnlzl-15" value="账号注册" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="aGGSzIS987s6DGNBnlzl-15" value="验证码验证" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="240" y="310" width="20" height="70" as="geometry" />
         </mxCell>
       </root>
