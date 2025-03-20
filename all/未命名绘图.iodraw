@@ -774,7 +774,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eccIySqdbMwQBgquRKEI" name="第 6 页">
-    <mxGraphModel dx="380" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="447" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -925,6 +925,9 @@
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-46" value="色彩展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="300" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aGGSzIS987s6DGNBnlzl-49" value="汉服文化展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="650" y="125" width="20" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
