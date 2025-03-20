@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-4" value="纹样展示" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="279" width="70" height="49" as="geometry" />
+          <mxGeometry x="1390" y="279" width="80" height="101" as="geometry" />
         </mxCell>
         <mxCell id="dsYvHbmPSxo-NndMufUd-5" value="礼仪之道" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1284" y="-60" width="124" height="49" as="geometry" />
