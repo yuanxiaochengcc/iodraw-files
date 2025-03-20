@@ -798,7 +798,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=block;" edge="1" parent="1" source="aGGSzIS987s6DGNBnlzl-1" target="aGGSzIS987s6DGNBnlzl-31">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="387" y="110" />
+              <mxPoint x="530" y="110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-1" value="韵华胜极" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="354" y="30" width="66" height="60" as="geometry" />
@@ -896,13 +901,16 @@
           <mxGeometry x="465" y="310" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-34" value="汉服礼服展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="505" y="310" width="20" height="100" as="geometry" />
+          <mxGeometry x="500" y="300" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-35" value="汉服工艺展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="545" y="310" width="20" height="100" as="geometry" />
+          <mxGeometry x="530" y="300" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-36" value="汉服配饰" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="575" y="310" width="20" height="100" as="geometry" />
+          <mxGeometry x="575" y="300" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aGGSzIS987s6DGNBnlzl-42" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=block;" edge="1" parent="1" source="aGGSzIS987s6DGNBnlzl-33" target="aGGSzIS987s6DGNBnlzl-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
