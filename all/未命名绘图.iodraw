@@ -626,9 +626,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A1Bm2LmqhEdNzLdYD56h-2" value="礼仪体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="107" width="474" height="194" as="geometry" />
-        </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-3" value="纹样系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="857" y="107" width="827" height="310" as="geometry" />
         </mxCell>
@@ -651,7 +648,7 @@
           <mxGeometry x="1212" y="132" width="101" height="41" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-10" value="礼仪之道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="556.5" y="132" width="101" height="41" as="geometry" />
+          <mxGeometry x="556.5" y="132" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-11" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="73" width="50" height="100" as="geometry" />
