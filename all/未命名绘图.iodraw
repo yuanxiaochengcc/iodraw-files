@@ -922,8 +922,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aGGSzIS987s6DGNBnlzl-31" value="汉服文化展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="520" y="125" width="20" height="105" as="geometry" />
+        <mxCell id="aGGSzIS987s6DGNBnlzl-31" value="汉服文化展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="167.5" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-33" value="按朝代展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="470" y="300" width="20" height="70" as="geometry" />
@@ -965,8 +965,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aGGSzIS987s6DGNBnlzl-49" value="汉服艺术" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="700" y="125" width="20" height="105" as="geometry" />
+        <mxCell id="aGGSzIS987s6DGNBnlzl-49" value="汉服艺术" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="167.5" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aGGSzIS987s6DGNBnlzl-52" value="审美艺术" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="660" y="295" width="20" height="100" as="geometry" />
