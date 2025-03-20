@@ -626,23 +626,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A1Bm2LmqhEdNzLdYD56h-4" value="文化体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2045" y="107" width="675" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="A1Bm2LmqhEdNzLdYD56h-5" value="首页模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1703" y="107" width="322" height="194" as="geometry" />
-        </mxCell>
-        <mxCell id="A1Bm2LmqhEdNzLdYD56h-6" value="&#xa;韶华胜极系统架构" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
+        <mxCell id="A1Bm2LmqhEdNzLdYD56h-6" value="韶华胜极系统架构" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
           <mxGeometry x="1198" y="20" width="128" height="37" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-7" value="首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1824" y="132" width="80" height="41" as="geometry" />
+          <mxGeometry x="1824" y="132" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-8" value="汉服文化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2332" y="132" width="101" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="A1Bm2LmqhEdNzLdYD56h-9" value="纹样展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1212" y="132" width="50" height="100" as="geometry" />
+          <mxGeometry x="2332" y="132" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-10" value="礼仪之道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="80" width="50" height="100" as="geometry" />
@@ -651,28 +642,28 @@
           <mxGeometry x="130" y="73" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-12" value="导航菜单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1738" y="229" width="101" height="41" as="geometry" />
+          <mxGeometry x="1750" y="340" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-13" value="轮播展示&#xa;文化简介" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1889" y="224" width="101" height="52" as="geometry" />
+          <mxGeometry x="1889" y="340" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-14" value="朝代分类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2333" y="229" width="101" height="41" as="geometry" />
+          <mxGeometry x="2333" y="229" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-15" value="汉代" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="351" width="81" height="41" as="geometry" />
+          <mxGeometry x="2080" y="351" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-16" value="魏晋" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2212" y="351" width="81" height="41" as="geometry" />
+          <mxGeometry x="2212" y="351" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-17" value="唐代" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2342" y="351" width="81" height="41" as="geometry" />
+          <mxGeometry x="2342" y="351" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-18" value="宋代" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2474" y="351" width="81" height="41" as="geometry" />
+          <mxGeometry x="2474" y="351" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-19" value="明代" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2605" y="351" width="81" height="41" as="geometry" />
+          <mxGeometry x="2605" y="351" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-20" value="传统纹样" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1212" y="229" width="50" height="100" as="geometry" />
@@ -716,9 +707,6 @@
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-33" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.57;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="A1Bm2LmqhEdNzLdYD56h-6" target="A1Bm2LmqhEdNzLdYD56h-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A1Bm2LmqhEdNzLdYD56h-34" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="A1Bm2LmqhEdNzLdYD56h-6" target="A1Bm2LmqhEdNzLdYD56h-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-35" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="A1Bm2LmqhEdNzLdYD56h-6" target="A1Bm2LmqhEdNzLdYD56h-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -747,9 +735,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-44" value="" style="startArrow=none;endArrow=block;exitX=0.99;exitY=0.75;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="A1Bm2LmqhEdNzLdYD56h-14" target="A1Bm2LmqhEdNzLdYD56h-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="A1Bm2LmqhEdNzLdYD56h-45" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="A1Bm2LmqhEdNzLdYD56h-9" target="A1Bm2LmqhEdNzLdYD56h-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A1Bm2LmqhEdNzLdYD56h-46" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.49;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="A1Bm2LmqhEdNzLdYD56h-20" target="A1Bm2LmqhEdNzLdYD56h-21">
