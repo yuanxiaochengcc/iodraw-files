@@ -8,10 +8,10 @@
           <mxGeometry x="620" y="30" width="280" height="49" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-2" value="学生" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;imageAspect=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="297" y="119" width="92" height="49" as="geometry" />
+          <mxGeometry x="297" y="119" width="92" height="66" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-3" value="管理员" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;imageAspect=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="119" width="108" height="49" as="geometry" />
+          <mxGeometry x="1072" y="119" width="108" height="66" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-4" value="注册登录" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;imageAspect=0;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="20" y="217" width="137" height="75" as="geometry" />
