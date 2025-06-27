@@ -14,31 +14,31 @@
           <mxGeometry x="1072" y="119" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-4" value="注册登录" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;imageAspect=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="20" y="217" width="125" height="49" as="geometry" />
+          <mxGeometry x="20" y="217" width="137" height="75" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-5" value="参赛报名" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;imageAspect=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="194" y="217" width="125" height="49" as="geometry" />
+          <mxGeometry x="194" y="217" width="137" height="75" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-6" value="我的竞赛" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;imageAspect=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="368" y="217" width="125" height="49" as="geometry" />
+          <mxGeometry x="368" y="217" width="137" height="75" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-7" value="作品提交" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;imageAspect=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="542" y="217" width="125" height="49" as="geometry" />
+          <mxGeometry x="542" y="217" width="137" height="75" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-8" value="竞赛发布" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;imageAspect=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="716" y="217" width="125" height="49" as="geometry" />
+          <mxGeometry x="716" y="217" width="137" height="75" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-9" value="奖项设置" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;imageAspect=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="890" y="217" width="125" height="49" as="geometry" />
+          <mxGeometry x="890" y="217" width="137" height="75" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-10" value="奖状生成" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;imageAspect=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="217" width="125" height="49" as="geometry" />
+          <mxGeometry x="1064" y="217" width="137" height="75" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-11" value="统计分析" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;imageAspect=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="1238" y="217" width="125" height="49" as="geometry" />
+          <mxGeometry x="1238" y="217" width="137" height="75" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-12" value="新闻发布" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="1412" y="217" width="125" height="49" as="geometry" />
+          <mxGeometry x="1412" y="217" width="137" height="75" as="geometry" />
         </mxCell>
         <mxCell id="EcBtoChyso8uS_m9HhQc-13" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;edgeStyle=orthogonalEdgeStyle;fontSize=32;" edge="1" parent="1" source="EcBtoChyso8uS_m9HhQc-1" target="EcBtoChyso8uS_m9HhQc-2">
           <mxGeometry relative="1" as="geometry" />
